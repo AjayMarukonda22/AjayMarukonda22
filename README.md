@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 <h1 align="center">Hi 👋, I'm Ajay Marukonda</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE"/>
 
-- 🔭 I’m currently working on [TexxeHire (Job Hire Platform)](https://github.com/texxehire/main-app-service/tree/backend-core)
+- 🔭 I’m currently learning full stack development
 
-- 🌱 I’m currently learning **Spring Cloud, Kafka Streams and High Level Design**
+- 🌱 Technologies I'm exploring **Java script, HTML, CSS, SQL, REACT, Node.js, Express**
 
 - 💬 Ask me about **DSA, Backend development, Spring Boot and design patterns**
 
